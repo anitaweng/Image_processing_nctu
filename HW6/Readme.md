@@ -1,3 +1,4 @@
+# Canny edge detection algorithm
 This work applies Canny edge detection algorithm to the image.
 The requirements are described in 'project 6 2020-06-01.pdf'.
 Executing hw6_0510894.m in MATLAB can obtain the results.
