@@ -2,7 +2,7 @@ This work finds H, S and I component images and applies specific sphere based co
 The requirements are described in 'project 5 2020-05-25.pdf'.
 Executing hw5_0510894.m in MATLAB can obtain the results.
 
-Replace 'violet (color).tif' with your input image name in hw4_0510894.m.
+Replace 'violet (color).tif' with your input image name in hw5_0510894.m.
 ```
 Img=im2double(imread('violet (color).tif'));
 ```
