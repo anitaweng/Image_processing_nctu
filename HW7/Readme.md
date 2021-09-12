@@ -1,3 +1,4 @@
+# Superpixel
 This work constructs N-superpixel images.
 The requirements are described in 'project 7 2020-06-08.pdf'.
 Executing hw7_0510894.m in MATLAB can obtain the results.
