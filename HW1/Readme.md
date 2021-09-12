@@ -1,3 +1,4 @@
+# Histogram Specification Scheme
 This work applys the histogram specification scheme.
 The requirements are described in 'project 1 20200323.pdf'.
 Executing hw1_0510894.m in MATLAB can obtain the results.
