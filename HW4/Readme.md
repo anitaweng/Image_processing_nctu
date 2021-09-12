@@ -1,3 +1,4 @@
+# Improve the linear motion
 This work finds the Fourier magnitude spectra and tries to improve the linear motion of a image.
 The requirements are described in 'project 4 2020-05-11.pdf'.
 Executing hw4_0510894.m in MATLAB can obtain the results.
