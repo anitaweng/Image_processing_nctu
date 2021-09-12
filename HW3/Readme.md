@@ -1,3 +1,4 @@
+# Laplacian filtering
 This work finds the Fourier magnitude spectra of the of a image after applying Laplacian filtering.
 The requirements are described in 'project 3 20200422.pdf'.
 Executing hw3_0510894.m in MATLAB can obtain the results.
