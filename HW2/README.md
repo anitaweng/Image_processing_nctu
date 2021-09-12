@@ -1,8 +1,8 @@
-This work find the Fourier magnitude and phase spectrum of a image.
+This work finds the Fourier magnitude and phase spectrum of a image.
 The requirements are described in 'project 2 20200420.pdf'.
 Executing hw2_0510894.m in MATLAB can obtain the results.
 
-Replace 'Bird 1.tif' with your input image name in hw1_0510894.m.
+Replace 'Bird 1.tif' with your input image name in hw2_0510894.m.
 ```
 Img=imread('Bird 1.tif');
 ```
