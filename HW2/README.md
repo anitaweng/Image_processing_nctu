@@ -1,3 +1,4 @@
+# Fourier magnitude and phase spectrum
 This work finds the Fourier magnitude and phase spectrum of a image.
 The requirements are described in 'project 2 20200420.pdf'.
 Executing hw2_0510894.m in MATLAB can obtain the results.
