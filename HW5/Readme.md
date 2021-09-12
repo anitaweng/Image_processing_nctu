@@ -1,3 +1,4 @@
+# HSI & Color Slicing
 This work finds H, S and I component images and applies specific sphere based color slicing to the image.
 The requirements are described in 'project 5 2020-05-25.pdf'.
 Executing hw5_0510894.m in MATLAB can obtain the results.
